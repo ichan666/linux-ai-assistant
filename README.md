@@ -24,7 +24,7 @@ A powerful terminal-based assistant that combines Linux command execution with A
 1. Clone the repository:
 ```
 git clone https://github.com/ichan666/linux-ai-assistant.git
-cd advanced-linux-agent
+cd linux-ai-assistant
 ```
 
 2. Install the required dependencies:
@@ -118,10 +118,6 @@ To add new special commands:
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Acknowledgments
 
